@@ -29,3 +29,4 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          config_background: FFFFFF
