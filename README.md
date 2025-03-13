@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![JIE YU's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuudada&show_icons=true&theme=moltack)(https://github.com/anuraghazra/github-readme-stats)
+![JIE YU's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuudada77&show_icons=true&theme=moltack)
 <p align="center"><img src="/iso-calender-halfyear.svg" alt="Metrics" width="50%"></p>
 <!--
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="50%"></p>
