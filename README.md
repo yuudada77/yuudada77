@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img src="/iso_calender.svg" alt="Metrics" width="50%"></p>
+<p align="center"><img src="/iso_calender_halfyear.svg" alt="Metrics" width="50%"></p>
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="50%"></p>
