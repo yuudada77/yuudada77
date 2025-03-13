@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuudada77&show_icons=true&layout=donut&theme=vue" style="width: 30%; text-align: left;">
-  <img src="/iso-calender-halfyear.svg" alt="Metrics" style="width: 35%; text-align: right;">
+  <img src="/iso-calender-halfyear.svg" alt="Metrics" style="width: 40%; text-align: right;">
 </div>
 
 
