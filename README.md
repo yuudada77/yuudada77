@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"><img src="/iso_calender_halfyear.svg" alt="Metrics" width="50%"></p>
-
+<!--
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="50%"></p>
+-->
