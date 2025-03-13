@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![JIE YU's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuudada77&show_icons=true&theme=moltack)
 <p align="center"><img src="/iso-calender-halfyear.svg" alt="Metrics" width="50%"></p>
-<!--
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="50%"></p>
 -->
+
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuudada77&show_icons=true&layout=compact&theme=apprentice" style="width: 35%; text-align: left;">
+  <img src="/iso-calender-halfyear.svg" alt="Metrics" style="width: 35%; text-align: right;">
+</div>
