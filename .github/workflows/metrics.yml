@@ -17,14 +17,13 @@ jobs:
 #        with:
 #          token: ${{ secrets.METRICS_TOKEN }}
 
-  iso_calender_halfyear:
+  iso-calender-halfyear:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
