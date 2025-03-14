@@ -11,7 +11,20 @@
 <br><br>
 
 <h3>☁︎︎⋆｡˚ 𝙈𝙮 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨</h3>
-<p align="left" width=50%><img src="/profile-3d-contrib/profile-night-rainbow.svg" style="width: 60%;"></p>
+<p align="left" width=50%>
+  <picture>
+    <source srcset="/profile-3d-contrib/profile-season-animate.svg" media="(prefers-color-scheme: light)">
+    <source srcset="/profile-3d-contrib/profile-night-rainbow.svg" media="(prefers-color-scheme: dark)">
+    <img src="/profile-3d-contrib/profile-season-animate.svg" style="width: 60%;" alt="GitHub Profile Image">
+  </picture>
+</p>
+
+<!--
+<p align="left" width=50%>
+  <img src="/profile-3d-contrib/profile-season-animate.svg" style="width: 60%;" alt="Light Mode Image" #gh-light-mode-only>
+  <img src="/profile-3d-contrib/profile-night-rainbow.svg" style="width: 60%;" alt="Light Mode Image" #gh-dark-mode-only>
+</p>
+-->
 
 <!--
 **yuudada77/yuudada77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,13 +39,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<!--
 ![JIE YU's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuudada77&show_icons=true&theme=moltack)
--->
 
-<!--
 <p align="center">
   <img src="/iso-calender-halfyear.svg" align="right" width="40%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuudada77&show_icons=true&layout=donut&theme=vue" align="left" width="40%">
