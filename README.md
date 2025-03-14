@@ -15,16 +15,9 @@
   <picture>
     <source srcset="/profile-3d-contrib/profile-season-animate.svg" media="(prefers-color-scheme: light)">
     <source srcset="/profile-3d-contrib/profile-night-rainbow.svg" media="(prefers-color-scheme: dark)">
-    <img src="/profile-3d-contrib/profile-season-animate.svg" style="width: 60%;" alt="GitHub Profile Image">
+    <img src="/profile-3d-contrib/profile-season-animate.svg" width=50% alt="GitHub Profile Image">
   </picture>
 </p>
-
-<!--
-<p align="left" width=50%>
-  <img src="/profile-3d-contrib/profile-season-animate.svg" style="width: 60%;" alt="Light Mode Image" #gh-light-mode-only>
-  <img src="/profile-3d-contrib/profile-night-rainbow.svg" style="width: 60%;" alt="Light Mode Image" #gh-dark-mode-only>
-</p>
--->
 
 <!--
 **yuudada77/yuudada77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
