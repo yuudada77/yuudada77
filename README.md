@@ -25,4 +25,4 @@ Here are some ideas to get you started:
   <img src="/iso-calender-halfyear.svg" alt="Metrics" style="width: 40%; text-align: right;">
 </div>
 
-
+<p align="center"><img src="/profile-3d-contrib/profile-south-season-animate.svg"></p>
