@@ -4,7 +4,7 @@
 <samp>
   👻 A master's student at National Chung Hsing University <br>
   🖥️ Major in Computer Science and Engineering <br>
-  🔐 Information Security Laboratory <br>
+  🔐 Part of the Information Security Laboratory <br>
   📫 How to reach me → <a href="mailto:jieyuu174@gmail.com">jieyuu174@gmail.com</a>
 </samp>
 
