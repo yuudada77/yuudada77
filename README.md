@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 <p align="center"><img src="/iso-calender-halfyear.svg" alt="Metrics" width="50%"></p>
 -->
 
+<!--
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuudada77&show_icons=true&layout=donut&theme=vue" style="width: 30%; text-align: left;">
   <img src="/iso-calender-halfyear.svg" alt="Metrics" style="width: 40%; text-align: right;">
 </div>
+-->
 
-<p align="center"><img src="/profile-3d-contrib/profile-south-season-animate.svg"></p>
+<p align="left" width=50%><img src="/profile-3d-contrib/profile-night-rainbow.svg" style="width: 60%;"></p>
