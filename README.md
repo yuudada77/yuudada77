@@ -15,7 +15,7 @@
   <picture>
     <source srcset="/profile-3d-contrib/profile-season-animate.svg" media="(prefers-color-scheme: light)">
     <source srcset="/profile-3d-contrib/profile-night-rainbow.svg" media="(prefers-color-scheme: dark)">
-    <img src="/profile-3d-contrib/profile-season-animate.svg" width=50% alt="GitHub Profile Image">
+    <img src="/profile-3d-contrib/profile-season-animate.svg" width=55% alt="GitHub Profile Image">
   </picture>
 </p>
 
